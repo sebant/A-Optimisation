@@ -1,4 +1,4 @@
-# A-Optimisation
+# AStar --- Routing Algorithm
 
 This program is the proposed solution to 
 computing an optimal path (according to distance) from 
