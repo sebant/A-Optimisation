@@ -11,3 +11,5 @@ node with key (@id): 240949599 (lattitude 41.3833063º, longitude 2.1817609º)
 as the starting point in Barcelona,
 while the goal node close to Giralda is identified by (@id): 195977239 
 (lattitude 37.3860938º, longitude -5.9917354º).
+
+I reckon https://xkcd.com/1513/ is applicable here.
